@@ -1,0 +1,1 @@
+this file contains pandas basic commands and also dataset used to explain through examples. In this repo the jupyter is talking about how to read dataset, how to initially explore data using basic pandas function.
